@@ -71,8 +71,5 @@ class BandController extends Controller
 
 
 /**
- * No curso ensina um bad pattern, chamar um controller em outro controller.
- * Exemplo de porquê é ruim: https://laracasts.com/discuss/channels/laravel/call-post-method-from-another-controller
- * 
  * Sugestão: repository pattern e/ou traits
  */
